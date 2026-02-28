@@ -14,7 +14,7 @@
     :target: https://codecov.io/gh/RalfLangeDresden/mopidy-radiobrowser
     :alt: Test coverage
 
-Mopidy extension for playing music from `RadioBrowser <http://www.radiobrowser.info>`_.
+Mopidy extension for playing music from `RadioBrowser <http://www.radio-browser.info>`_.
 Listen to the world’s radio with 25,000 stations of music, sports and news streaming from every continent.
 
 Acknowledgement and thanks to Nick Steel's `TuneIn plugin <https://github.com/kingosticks/mopidy-tunein>`_ that was based on.
